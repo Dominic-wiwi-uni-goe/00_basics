@@ -1,5 +1,5 @@
 ## Basics in R for the seminar
-This chapter summarizes some basics which may be required for the seminar. 
+This chapter summarizes some basics which may be required for the seminar, including:
 
 - 00_general
 - 01_installing packages
