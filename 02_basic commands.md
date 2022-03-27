@@ -25,7 +25,7 @@ One of the most basic use cases of R is basic arithmetic. Moreover, you can also
 - Modulo (remainder after division): `%%`
 - Variable assignment: `=` or `<-`
 
-#####Comparison and logical operators
+##### Comparison and logical operators
 Comparison operators compare a pair of values and return either a true or a false.
 
 - Equal to: `==` (note the difference between ==, which is used for comparison and =, which is used for assignment)
