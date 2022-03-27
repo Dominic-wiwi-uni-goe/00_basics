@@ -1,2 +1,9 @@
-# 00_basics in R for the seminar
+## Basics in R for the seminar
 This chapter summarizes some basics which may be required for the seminar. However, further reading is recommended, e.g., Matuzak, Benjamin (2020): Einstieg in Data Science mit R: Datenanalyse und Statistik ohne Vorkenntnisse. ISBN: 978-3836278928
+
+## Running RStudio and setting up your working directory
+
+
+<img width="500" alt="rstudio" src="https://user-images.githubusercontent.com/102478331/160294896-393d7430-019c-4222-84fa-45336de6fa06.png">
+
+**Source**: http://www.sthda.com/english/wiki/r-basics-quick-and-easy
